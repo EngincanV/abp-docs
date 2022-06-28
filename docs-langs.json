@@ -1,0 +1,14 @@
+{
+    "Languages": [
+      {
+        "DisplayName": "Icelandic",
+        "Code": "is",
+        "IsDefault": true
+      },
+      {
+        "DisplayName": "English",
+        "Code": "en",
+        "IsDefault": false
+      }
+    ]
+  }
